@@ -77,11 +77,11 @@ This project solidified my understanding of:
 5. Follow the console prompts to interact with the system.
 
 ## 🖼️ Screenshots
-!["Screen-1"](Screens/Screen-1)
-!["Screen-1"](Screens/Screen-2)
-!["Screen-1"](Screens/Screen-3)
-!["Screen-1"](Screens/Screen-4)
-!["Screen-1"](Screens/Screen-5)
+!["Screen-1"](Screens/Screen-1.png)
+!["Screen-1"](Screens/Screen-2.png)
+!["Screen-1"](Screens/Screen-3.png)
+!["Screen-1"](Screens/Screen-4.png)
+!["Screen-1"](Screens/Screen-5.png)
 
 ## 🧩 UML Diagram
 
